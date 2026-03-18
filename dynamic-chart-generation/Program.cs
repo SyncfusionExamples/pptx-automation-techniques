@@ -26,5 +26,7 @@ inputStream.Dispose();
 // Save the PowerPoint Presentation
 FileStream outputStream = new FileStream(Path.GetFullPath(@"Output.pptx"), FileMode.Create);
 presentation.Save(outputStream);
+//Dispose the streams
+inputStream.Dispose();
 outputStream.Dispose();
 presentation.Close();

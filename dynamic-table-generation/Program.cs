@@ -19,6 +19,9 @@ namespace dynamic_table_generation
             //Save the presentation to disk and release resources
             FileStream outputStream = new FileStream(Path.GetFullPath(@"Output.pptx"), FileMode.Create);
             presentation.Save(outputStream);
+
+            //Dispose the streams
+            inputStream.Dispose();
             outputStream.Dispose();
 
             presentation.Close();

@@ -21,6 +21,7 @@ FileStream outputStream = new FileStream(Path.GetFullPath(@"Output.pptx"), FileM
 presentation.Save(outputStream);
 
 // Dispose the image stream
+inputStream.Dispose();
 pictureStream.Dispose();
 outputStream.Dispose();
 
