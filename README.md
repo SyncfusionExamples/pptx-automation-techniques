@@ -45,7 +45,7 @@ Take a moment to peruse the [documentation](https://help.syncfusion.com/file-for
 ## Resources
 
 - **Product page:** [Syncfusion&reg; PowerPoint Framework](https://www.syncfusion.com/document-processing/powerpoint-framework/net?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-video-examples)
-- **Documentation:** [Convert PPTX to PDF using Syncfusion&reg; PowerPoint library](https://help.syncfusion.com/file-formats/presentation/presentation-to-pdf?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-video-examples)
+- **Documentation:** [Getting Started with PowerPoint library](https://help.syncfusion.com/document-processing/powerpoint/powerpoint-library/net/getting-started)
 - **GitHub Examples:** [Syncfusion&reg; PowerPoint library examples](https://github.com/SyncfusionExamples/PowerPoint-Examples?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-video-examples)
 - **Online demo:** [Syncfusion&reg; PowerPoint library - Online demos](https://ej2.syncfusion.com/aspnetcore/PowerPoint/Default#/material3?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-video-examples)
 
